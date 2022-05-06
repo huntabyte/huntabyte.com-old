@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Huntabyte</title>
+    <link>https://huntabyte.com/</link>
+    <description>Recent content on Huntabyte</description>
+    <image>
+      <url>https://huntabyte.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://huntabyte.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2022 11:30:00 -0400</lastBuildDate><atom:link href="https://huntabyte.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the post title</title>
+      <link>https://huntabyte.com/posts/mypost/</link>
+      <pubDate>Fri, 06 May 2022 11:30:00 -0400</pubDate>
+      
+      <guid>https://huntabyte.com/posts/mypost/</guid>
+      <description>This is some content
+def main(x, y):  return x + y </description>
+    </item>
+    
+  </channel>
+</rss>
