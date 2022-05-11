@@ -10,15 +10,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2022 11:30:00 -0400</lastBuildDate><atom:link href="https://huntabyte.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 19:49:29 -0400</lastBuildDate><atom:link href="https://huntabyte.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is the post title</title>
-      <link>https://huntabyte.com/posts/mypost/</link>
-      <pubDate>Fri, 06 May 2022 11:30:00 -0400</pubDate>
+      <title>My plans for this blog</title>
+      <link>https://huntabyte.com/posts/my-first-post/</link>
+      <pubDate>Tue, 10 May 2022 19:49:29 -0400</pubDate>
       
-      <guid>https://huntabyte.com/posts/mypost/</guid>
-      <description>This is some content
-def main(x, y):  return x + y </description>
+      <guid>https://huntabyte.com/posts/my-first-post/</guid>
+      <description>I often spend many hours solving a complex problem and have a terrible habit of forgetting to document how exactly I solved it. After a few months passed, I stumbled into the same situation again. Because I didn’t document it, I need to dedicate hours to solve it with the minimal amount of context I have from the previous attempt.
+Additionally, being able to log and view how my journey in this industry has progressed is something I have always wanted to do.</description>
     </item>
     
   </channel>
